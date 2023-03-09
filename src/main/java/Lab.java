@@ -1,7 +1,7 @@
 
 public class Lab {
     /**
-     * An if statement uses a conditional statement (within parentheses) to determine if the code
+     *  An  if statement uses a conditional statement (within parentheses) to determine if the code
      * within {curly braces} should run.
      * If statements can be coupled with an else{} statement or else if(){} statement.
      *
